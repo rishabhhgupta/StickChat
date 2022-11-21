@@ -1,0 +1,5 @@
+rootProject.name = "StickChat"
+include ':app'
+include ':GifsImageView'
+include ':CanvsEditor'
+include ':canvaseditor'
